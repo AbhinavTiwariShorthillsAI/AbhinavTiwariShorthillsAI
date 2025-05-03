@@ -1,55 +1,76 @@
-\<h1 align="center">Hey there 👋, I'm Abhinav Tiwari</h1>
-<h3 align="center">🚀 Chemical Engineer | 🧠 ML Enthusiast | 📊 Data Wrangler | 🎯 Growth Seeker</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/AbhinavTiwariShorthillsAI/AbhinavTiwariShorthillsAI/blob/main/assets/banner.png" alt="Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Abhinav Tiwari</h1>
+<h3 align="center">⚙️ Engineer | 💻 Coder | 🔎 Curious Mind</h3>
+
+---
+
+### 🧭 About Me
+
+- 🎓 Final-year Chemical Engineering student at **NIT Allahabad**  
+- 🧠 Passionate about AI, data systems, and smart software  
+- 🧩 TPR (Training & Placement Representative) of the 2025 batch  
+- 🛠️ Building real-world tools with LLMs, scrapers, and clean backends  
+- 🧪 Exploring where code meets math, chemistry, and systems
+
+---
+
+### 🧰 Tech Stack
+
+**💬 Languages:**  
+`Python` &nbsp; `C++` &nbsp; `SQL` &nbsp; `Bash`
+
+**📚 Libraries / Tools:**  
+`Pandas` &nbsp; `NumPy` &nbsp; `Scikit-learn` &nbsp; `TensorFlow`  
+`Streamlit` &nbsp; `BeautifulSoup` &nbsp; `Requests` &nbsp; `Jupyter`
+
+**🖥️ Infra & Dev:**  
+`Linux (Ubuntu)` &nbsp; `Git` &nbsp; `Weaviate` &nbsp; `Ollama` &nbsp; `VS Code`
+
+---
+
+### 🧪 Notable Projects
+
+**🧠 RAG Chatbot on World War History**  
+> 🤖 Built a local LLM chatbot using semantic chunking, Weaviate vector DB, and Streamlit interface.
+
+---
+
+### 🌟 Highlights
+
+- 🏆 Coordinated major internship and placement sessions as **TPR**  
+- 📊 Maintained structured data pipelines for student tracking  
+- 🎤 Hosted peer-led resume & mock interview sessions
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Engineer+by+degree%2C+problem-solver+by+heart.;Bridging+Chemistry%2C+Code%2C+and+Creativity.;Always+hungry+to+learn%2C+always+building+something+new." alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavTiwariShorthillsAI&show_icons=true&theme=graywhite&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavTiwariShorthillsAI&theme=default" width="48%" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🎓 Final Year Chemical Engineering @ **NIT Allahabad**  
-- 🔬 Research: *Lignin-based heavy metal detection | Styrene synthesis via hybrid catalysis*  
-- 🧠 Exploring: Machine Learning, Prompt Engineering, LLMs, Vector DBs  
-- 📈 Aspiring Analyst | Love combining numbers, logic & narrative  
-- 💼 Ex-BPCL Intern | T&P Coordinator | Shorthills AI Intern (2025)
+### 🧠 Currently Exploring
+
+- 🪄 Prompt engineering for RAG pipelines  
+- ♻️ Reinforcement learning fundamentals  
+- 💼 Strategy + finance for consulting prep
 
 ---
 
-### 💡 Current Focus  
-- 🛠 Building RAG bots, Data Pipelines & Smart Scrapers  
-- 📊 Mastering Business, Finance & Economics for strategic roles  
-- 🧪 Applying ML to real-world chemical processes  
-- 📚 Reading: *The McKinsey Way*, *Deep Learning with Python*, and *Atomic Habits*
+### 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tiwari-mnnit/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhinavTiwariShorthillsAI)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:abhiitiwarii0@email.com)
 
 ---
 
-### 🧰 Tech & Tools  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-
----
-
-### ✨ GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavTiwari&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavTiwari&theme=radical" width="45%" />
-</p>
-
----
-
-### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/abhinav-tiwari-nit/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&style=flat-square)](https://github.com/AbhinavTiwari)  
-[![Mail](https://img.shields.io/badge/-abhinav@email.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav@email.com)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
-</p>
+<p align="center"><i>“Simplicity is the ultimate sophistication.” </i> 
+                                                                - Leonardo da Vinci</p>
